@@ -148,9 +148,9 @@ body.loaded .blog-desc {
 	position: relative;
 	text-align: center;
 }
-#logo a { color: #ffffff; }
+#logo a { color: #34373b; }
 #logo small {
-	color: #ffffff;
+	color: #34373b;
 	font-family: Arial, sans-serif;
 	font-size: 12px;
 	font-weight: bold;
@@ -159,7 +159,7 @@ body.loaded .blog-desc {
 	top: 30px;
 }
 #logo:before {
-	color: #ffffff;
+	color: #34373b;
 	content: "* * *";
 	display: block;
 	font-family: ghost-perfetta;
@@ -169,7 +169,7 @@ body.loaded .blog-desc {
 	width: 100%;
 }
 .blog-title {
-	border: 1px solid #ffffff;
+	border: 1px solid #34373b;
 	border-left: none;
 	border-right: none;
 	display: inline-block;
@@ -184,7 +184,7 @@ body.loaded .blog-desc {
 	width: auto;
 }
 .blog-title:after {
-	border: 1px solid #ffffff;
+	border: 1px solid #34373b;
 	border-left: none;
 	border-right: none;
 	content: "";
@@ -195,7 +195,7 @@ body.loaded .blog-desc {
 	top: 0px;
 }
 .blog-title:before {
-	border: 1px solid #ffffff;
+	border: 1px solid #34373b;
 	border-left: none;
 	border-right: none;
 	content: "";
@@ -241,7 +241,7 @@ footer.page-wrap > div { margin-left: 170px; }
 	float: left;
 	width: 50%;
 }
-#footer-content p { 
+#footer-content p {
 	margin: 0 20px 12px 0;
 }
 #footer-content p i {
@@ -260,8 +260,8 @@ footer.page-wrap > div { margin-left: 170px; }
 	margin-bottom: 12px;
 	padding: 0;
 }
-#footer-content dl dd { 
-	margin: 0 20px 12px 4px; 
+#footer-content dl dd {
+	margin: 0 20px 12px 4px;
 }
 #footer-content dl dt:nth-child(5n) { clear: both; }
 #footer-content h3 {
